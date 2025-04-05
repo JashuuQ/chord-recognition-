@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+env/
+venv/
+__pycache__/
+
+# Dataset
+lakh-midi-clean/
+
+# Python cache
+*.pyc
+*.pyo
+*.pyd
+
+
+# VSCode settings
+.vscode/
+
+# Mac OS files
+.DS_Store
+
+# Test results
+test_results.json
